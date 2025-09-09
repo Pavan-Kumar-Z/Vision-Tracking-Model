@@ -1,4 +1,4 @@
-# Vision-Tracking-Model# Pupil Movement Tracking with Deep Learning
+# Vision-Tracking-Model Pupil Movement Tracking with Deep Learning
 
 ## Overview
 This project is focused on building a deep learning model to track the movement of the pupil in video frames. It uses a convolutional neural network (CNN) to predict the coordinates of the pupil in each frame of a video.
